@@ -1,7 +1,7 @@
 # SSuite ToolBox v1.2
 Introducing SSuite Office's v3 Manifest Toolbox Extension for Chromium-Based Browsers. ( v1.2 ) 
 
-We are pleased to announce the release of SSuite Office’s latest innovation, the v3 Manifest Toolbox extension, now available for seamless integration with Chromium-based browsers. This cutting-edge extension is designed to enhance your browsing experience by providing a suite of powerful tools directly accessible from your browser’s context menu.
+We are pleased to announce the release of SSuite Office’s latest innovation, the [v3 Manifest Toolbox extension](https://www.ssuiteoffice.com/categories/extensions.htm), now available for seamless integration with Chromium-based browsers, including SSuite Office's range of [NetSurfer browsers](https://www.ssuiteoffice.com/categories/esotericandspecialist.htm). This cutting-edge extension is designed to enhance your browsing experience by providing a suite of powerful tools directly accessible from your browser’s context menu.
 
 The v3 Manifest Toolbox extension brings together an array of functionalities that cater to diverse needs, ensuring that users have the tools they require at their fingertips.
 
