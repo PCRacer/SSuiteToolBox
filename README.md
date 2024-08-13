@@ -3,7 +3,9 @@ Introducing SSuite Office's v3 Manifest Toolbox Extension for Chromium-Based Bro
 
 We are pleased to announce the release of SSuite Office’s latest innovation, the v3 Manifest Toolbox extension, now available for seamless integration with Chromium-based browsers. This cutting-edge extension is designed to enhance your browsing experience by providing a suite of powerful tools directly accessible from your browser’s context menu.
 
-The v3 Manifest Toolbox extension brings together an array of functionalities that cater to diverse needs, ensuring that users have the tools they require at their fingertips. Here’s an overview of the six essential tools included in this feature-rich extension:
+The v3 Manifest Toolbox extension brings together an array of functionalities that cater to diverse needs, ensuring that users have the tools they require at their fingertips.
+
+## Here’s an overview of the six essential tools included in this feature-rich extension:
 
 ### Internet Speed Check:
 Stay informed about your connection's performance with real-time speed tests. This tool offers quick and accurate assessments of your download and upload speeds, as well as latency, helping you monitor and troubleshoot your internet connection effortlessly.
